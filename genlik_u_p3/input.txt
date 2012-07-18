@@ -1,0 +1,11 @@
+5
+insert 1 0
+insert 2 15 
+insert 3 80
+insert 4 20
+print extended heap
+find 5
+deleteMin
+change priority 3 40
+change priority 4 14
+print extended heap
